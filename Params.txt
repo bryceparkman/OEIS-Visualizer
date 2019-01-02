@@ -1,6 +1,6 @@
-A000027
-Sounds
-10
+A000027//Sequence
+Sounds //Visualizer (NumberLine, Binary, Graph, Circles, Sounds, Path) Currently only NumberLine, Binary, and Sounds is implemented
+10     //Scale
 
 Counting numbers: A000027
 Recaman's sequence: A005132
