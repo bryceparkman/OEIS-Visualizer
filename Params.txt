@@ -1,0 +1,10 @@
+A000027
+Sounds
+10
+
+Counting numbers: A000027
+Recaman's sequence: A005132
+Fibonacci numbers: A000045
+Prime numbers: A000040
+Pi: A000796
+e: A001113
